@@ -1,2 +1,3 @@
-Name: Karan Singh
+Name: Nittin Singh
 Age : 20
+Course: BTECH CSE
